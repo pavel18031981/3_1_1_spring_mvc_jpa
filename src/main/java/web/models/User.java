@@ -29,13 +29,6 @@ public class User {
         this.email = email;
     }
 
-    public User(int id, String name, int age, String email) {
-        this.id = id;
-        this.name = name;
-        this.age = age;
-        this.email = email;
-    }
-
     public int getId() {
         return id;
     }
